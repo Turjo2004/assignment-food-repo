@@ -65,7 +65,16 @@ body{
     border-image-slice: 1;
 }
 #last-food{
-    border-left:7px solid;
+    border-left:5px solid;
     border-image: linear-gradient(gold,green);
     border-image-slice: 1;
+}
+.h1l{
+    font-size: 50px;
+    text-align: center;
+    
+}
+.h12{
+    font-size: 30px;
+    text-align: center;
 }
