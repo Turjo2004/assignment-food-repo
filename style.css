@@ -39,3 +39,8 @@ body{
 .half-width-img2{
     width: 50%;
 }
+.recipe{
+    background-image: url(recipe.jpg);
+    background-repeat: no-repeat;
+    
+}
