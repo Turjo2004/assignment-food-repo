@@ -43,3 +43,19 @@ body{
     background-image: url(recipe.jpg);
     background-repeat: no-repeat;
 }
+#food{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(3, 150, 52),red);
+    border-image-slice: 1;
+
+}
+.recipes-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 5px gray;
+
+}
