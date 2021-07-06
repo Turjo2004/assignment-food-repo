@@ -4,6 +4,7 @@ body{
 .h1{
   
     color: rgb(250, 143, 3);
+    
 }
 .text-button{
     text-decoration: none;
@@ -77,4 +78,43 @@ body{
 .h12{
     font-size: 30px;
     text-align: center;
+}
+.info{
+    background-image: url(donepic.JPG);
+    background-repeat: no-repeat;
+}
+#info{
+    border-left: 7px solid;
+    border-image: linear-gradient(gold, orange);
+    border-image-slice: 1;
+}
+.infod{
+
+
+ 
+    height: 50px;
+    width: 20px;
+    margin-bottom: 10;
+    margin-left: 5%;
+    margin-right: 10%;
+
+}
+.oranged{
+    text-align: center;
+    color: tomato;
+    font-size: 50px;
+    background-color: blue;
+}
+.black{
+    font-size: 50px;
+    color: black;
+}
+.halka{
+    font-size: 30px;
+    text-align: center;
+    color: chartreuse;
+}
+.nicej{
+    font-size: 40px;
+    
 }
